@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Scandal proof, or An heroick poem on the renowned champions of the good old cause</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62296</idno><idno type="EEBO-CITATION">12095805</idno>
+  <idno type="VID">53982</idno>
+  <idno type="EEBO-PROQUEST">2240956391</idno>
+  
+            <idno type="STC">Wing S814</idno>
+            <idno type="STC">ESTC R12786</idno>
+            <idno type="OCLC">12095805</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A62296)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 53982)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 876:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Scandal proof, or An heroick poem on the renowned champions of the good old cause</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Don Pedro Valesco, Tasco Rasco Rero, Don John of Austria's cozens, uncles, sisters son, being his own nephew,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Addressed to "Impudent Dick Janeway, and the rest of the factious."</note>
+                  <note>Broadside.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Popish Plot, 1678.</term>
+               <term type="genre_form">Broadsides</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:53982:1"/>
+            <pb facs="tcp:53982:1"/>
+            <head>SCANDAL PROOF, OR <hi>An Heroick Poem</hi> On the Renowned Champions of the Good Old CAUSE Impudent <hi>Dick Janeway,</hi> and the rest of the Factious <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+            </head>
+            <lg>
+               <l>COme on ye Scribling <hi>Rebels</hi> of the Age,</l>
+               <l>Come on I say, advance upon the Stage;</l>
+               <l>Arm'd with <hi>Phanatick</hi> Malice Zeal and Rage.</l>
+               <l>Display your Merits to the Publick View,</l>
+               <l>Tell 'em 'tis You'r their Champion, none but You</l>
+               <l>Dare Counter-Plot the <hi>Popish</hi> Plotting Crew,</l>
+               <l>Faith 'twas great pity there was not a Tryal</l>
+               <l>Between that pack of <hi>Priests,</hi> who did deny all,</l>
+               <l>And You <hi>Phanatick</hi> Scriblers who Belly-all:</l>
+               <l>I mean that Zealous Sanctified Gang,</l>
+               <l>
+                  <hi>Comus,</hi> and <hi>Hal-</hi> Old <hi>Elephant,</hi> and <hi>Lang-</hi>
+               </l>
+               <l>Is (who precious Saints) no doubt in time may Hang.</l>
+               <l>And make as Fine a Show, as <hi>Whitebread</hi> did</l>
+               <l>With th' other Precious four, whose Souls are fled</l>
+               <l>Into an other World; yet 'twas unkind</l>
+               <l>To leave such Holy Brethren thus behind,</l>
+               <l>Without Directions, where their Friends to find.</l>
+               <l>Alas poor Harmless Devils, what a Pother</l>
+               <l>They make to Troop so hasty after th'other:</l>
+               <l>Who dy'd great Rogues, yet ne'r deny'd their Trade,</l>
+               <l>As you do, who their Mistery Invade,</l>
+               <l>Proving your selves <hi>Jesuits</hi> in Masquerade.</l>
+               <l>I Laugh to see how you'd the World deceive,</l>
+               <l>If they would all your Lying Tricks believe;</l>
+               <l>As how you'r th' only Men, that stand i'th' Gap,</l>
+               <l>There to repel th' approaching Thunder-Clap</l>
+               <l>Of <hi>Popery,</hi> which Threatens all the Nation,</l>
+               <l>With no less than a Total Inundation;</l>
+               <l>Unless prevented by your Reformation.</l>
+               <l>This is a precious hopeful Age, no doubt,</l>
+               <l>When such an Impious, Daring Rebel Rout;</l>
+               <l>Such Wretched Tools as You shall undertake</l>
+               <l>A Reformation in the <hi>Church</hi> and <hi>State.</hi>
+               </l>
+               <l>Yet 'tis but what we must expect from You,</l>
+               <l>Who in plain Terms, (to give the Devil his due)</l>
+               <l>Pretend to Love the King, but hate him too.</l>
+               <l>Among the rest of this <hi>Phanatick</hi> Knot</l>
+               <l>Of Factious <hi>Whigs,</hi> Faith I had quite forgot;</l>
+               <l>To mention that Egregious Rascal <hi>Dick,</hi>
+               </l>
+               <l>That Wondrous Lying Son of Damn'd <hi>Old Nick:</hi>
+               </l>
+               <pb facs="tcp:53982:2"/>
+               <pb facs="tcp:53982:2"/>
+               <l>Impartial Rakehell whose Romantick Skill</l>
+               <l>Excells the other Lying Knights o'th' Quill:</l>
+               <l>So like a <hi>Janus,</hi> does <hi>Dick Janeway</hi> look,</l>
+               <l>We see his Double Face in every Book;</l>
+               <l>In which wee'r Weekly Plagu'd with's Impudence,</l>
+               <l>Offensive to all Loyal men of Sense,</l>
+               <l>Who hate both <hi>Dick,</hi> and's Damn'd Impertinence.</l>
+               <l>Well then, go on thou Cursed Rogue in Grain,</l>
+               <l>Proceed to Write in thy own Lying Strain.</l>
+               <l>'Tis Meritorious; thou deserv'st Applause,</l>
+               <l>By Propping up the Sinking Damn'd <hi>Old Cause,</hi>
+               </l>
+               <l>Which not prevented, Ruines the King and Laws:</l>
+               <l>Go tell the th' awaken'd World, (but 'tis in vain)</l>
+               <l>You Love (alas you Lye) Great <hi>Charles</hi> his Raign:</l>
+               <l>How canst thou Love the King, or can your Brood</l>
+               <l>Of <hi>Whigs,</hi> when <hi>Treason</hi> Taints your Soul and Blood,</l>
+               <l>Ye Damn'd Antipodes to all that's good.</l>
+               <l>But Thou amongst the rest art such a Fool,</l>
+               <l>Poor Silly Rogue! They use thee for a Fool:</l>
+               <l>A certain necessary Implement,</l>
+               <l>To Print and own the Lyes that they Invent;</l>
+               <l>A Foppish Brazen Fool, that's led Astray</l>
+               <l>By every Cunning <hi>Whig</hi> that shews the way:</l>
+               <l>With what Officious <hi>Care</hi> thou Plagu'st thy Brains,</l>
+               <l>To get the Name of Villain for thy pains;</l>
+               <l>Like that Inglorious Rogue that set on Flame</l>
+               <l>
+                  <hi>Diana</hi>'s Temple; which to the Villains shame</l>
+               <l>He only did, to gain a Cursed Fame:</l>
+               <l>Such is thy Cursed <hi>Care,</hi> thou damned Fop,</l>
+               <l>Whose Pate more fit for Scullens Broom, or Mop;</l>
+               <l>Merits the Glorious Name of Busie Sot,</l>
+               <l>And (Calves-Head-like) deserves to go to Pot.</l>
+               <l>Thou Dull Insipid <hi>Coxcomb,</hi> worse then Beast,</l>
+               <l>What Guts and Carbidge hath thy Brains possest;</l>
+               <l>To make thy Scribling Whelpship so Uncivil,</l>
+               <l>So unlike man, and so much like the Devil:</l>
+               <l>Sure thou'rt the Spawn of some Ill Natur'd <hi>Gipsy,</hi>
+               </l>
+               <l>Got in a Barn, perhaps where each was Tipsy;</l>
+               <l>Hatcht up with th' noise of Tory, Rory, Randy,</l>
+               <l>The pure effects of Ale, and Beer, and Brandy;</l>
+               <l>And ever since thou'st been the Devils Imp,</l>
+               <l>
+                  <hi>Dissenters</hi> Bully, and <hi>Phanaticks</hi> Pimp:</l>
+               <l>A perfect Staulking Horse unto all those,</l>
+               <l>That Hate the King, and Love the Kingdoms Foes:</l>
+               <l>A Drudging Journy-man, a Slave to th' <hi>Pope,</hi>
+               </l>
+               <l>Next Heir in Law to the <hi>Heer Van Ketch</hi> his Rope;</l>
+               <l>One whom the Devil, for his Excellent Work</l>
+               <l>Is more beholding to, then <hi>Pope</hi> or <hi>Turk.</hi>
+               </l>
+               <l>Mayst thou at length receive thy Merits Due,</l>
+               <l>As Ample as the <hi>Popish</hi> Plotting Crew;</l>
+               <l>So <hi>Janeway,</hi> fare thee well, until I see</l>
+               <l>Thy Rogueship made <hi>St. Dick</hi> at <hi>Tyburn Tree.</hi>
+               </l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London, <hi>Printed for</hi> Don Pedro Valesco, Tasco Rasco Rero, Don John <hi>of</hi> Austria's <hi>Cozens, Ʋuncles, Sisters Son, being his own Nephew,</hi> MDCLXXXI.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
